@@ -1,0 +1,1 @@
+﻿get-scheduledtask | Where-Object {$_.TaskPath -eq "\"}
